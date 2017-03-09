@@ -5,7 +5,7 @@ public class Main {
 	
 	public static void main(String []args){
 		System.out.println("Schöne Grüße von " + name);
-		System.out.println("Schöne Grüße von Sami Torkamani");
+		System.out.println("Schöne Grüße von Sami Torkamani"); 
 	}
 	
 }
